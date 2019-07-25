@@ -1,0 +1,64 @@
+.card-header{
+    background: rgb(31, 42, 201);
+    color: #FFFFFF;
+    text-align: center;
+}
+.calendar-body{
+    background: rgb(31, 42, 201);
+    color: #FFFFFF;
+    text-align: center;
+}
+.mystyle1{
+    color: burlywood
+}
+.mystyle2{
+    color: burlywood
+}
+textarea{
+       position: absolute;
+       left: 950px;
+       top: 150px;
+    
+}
+.myNotes{
+    position: absolute;
+    left: 950px;
+    top: 118px;
+}
+
+.saveNotes{
+    position: absolute;
+    left: 950px;
+    top: 320px;
+}
+
+.updateNotes{
+    position: absolute;
+    left: 1068px;
+    top: 320px;
+}
+
+.deleteNotes{
+    position: absolute;
+    left: 1185px;
+    top: 320px;
+}
+
+#sqlGunler{
+    position: absolute;
+    left: 950px;
+    top: 10px;
+    visibility:hidden
+}
+#sqlAylar{
+    position: absolute;
+    left: 950px;
+    top: 40px;
+    visibility:hidden
+}
+#sqlYillar{
+    position: absolute;
+    left: 950px;
+    top: 70px; 
+    visibility:hidden
+}
